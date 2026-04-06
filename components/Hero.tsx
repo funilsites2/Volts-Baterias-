@@ -36,8 +36,8 @@ const Hero: React.FC = () => {
         {/* Main Title */}
         <h1 className="text-5xl md:text-[90px] font-black font-heading leading-[0.9] tracking-tighter mb-8 uppercase italic drop-shadow-sm">
           <span className="text-slate-900 dark:text-white block">LOJA DE BATERIAS</span>
-          <span className="text-blue-600 dark:text-[#00f2ff] block">AGUAS LINDAS</span>
-          <span className="text-slate-900 dark:text-white block">BRAZLÂNDIA</span>
+          <span className="text-blue-600 dark:text-[#00f2ff] block">BRAZLÂNDIA</span>
+          <span className="text-slate-900 dark:text-white block">ÁGUAS LINDAS</span>
         </h1>
 
         {/* Subtitle */}
