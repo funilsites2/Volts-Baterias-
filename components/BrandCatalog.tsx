@@ -36,7 +36,7 @@ const BrandCatalog: React.FC = () => {
             <div className="max-w-2xl">
                 <span className="text-blue-600 dark:text-[#00f2ff] text-[10px] uppercase tracking-[0.5em] font-bold block mb-4">Parceiros Oficiais</span>
                 <h2 className="text-4xl md:text-5xl font-heading font-bold uppercase text-slate-900 dark:text-white">
-                    As Melhores <span className="text-blue-600 dark:text-[#00f2ff]">Marcas</span>
+                    As Melhores <span className="text-blue-600 dark:text-[#00f2ff] text-[49px]">Marcas</span>
                 </h2>
                 <p className="mt-6 text-slate-600 dark:text-gray-400 font-light leading-relaxed">
                     Trabalhamos apenas com baterias certificadas e com garantia de fábrica. Escolha a marca de sua preferência e solicite um orçamento via WhatsApp.
